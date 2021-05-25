@@ -1,0 +1,2 @@
+jp/kota65535/monorepo/a/App.java
+ jp.kota65535.monorepo.a.App

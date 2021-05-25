@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>jp.kota65535.gradle.monorepo.a</groupId>
+  <artifactId>service-a-app</artifactId>
+  <versioning>
+    <latest>unspecified</latest>
+    <release>unspecified</release>
+    <versions>
+      <version>unspecified</version>
+    </versions>
+    <lastUpdated>20210523202751</lastUpdated>
+  </versioning>
+</metadata>
